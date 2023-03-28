@@ -1,1 +1,1 @@
-# Five-Day-Coding-Challenge
+# Five Day Coding Challenge
